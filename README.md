@@ -1,0 +1,2 @@
+# .gitignore
+Archivos .gitignore
